@@ -1,0 +1,50 @@
+body {
+    background-color: greenyellow;
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif
+}
+h1 {
+    font-size: 50px;
+    font-family: 'Arial Black', Arial, sans-serif;
+    color:black;
+    text-align: center;
+    margin-bottom: 20px;
+}
+h2 {
+    font-size: 30px;
+    color:black;
+    font-family: "Orbitron", Arial, sans-serif;
+    letter-spacing: 1px;
+    margin-top: 25px;
+}
+p {
+    color:dimgrey;
+    font-size: 16px;
+    font-family: "Segoe UI", Verdana, sans-serif;
+    line-height: 1.4;
+    padding: 10px;
+    margin: 15px 0;
+}
+ul li {
+    color:darkgreen;
+    font-size: 18px;
+    font-family: "Segoe UI", Verdana, sans-serif;
+    margin-bottom: 8px;
+    padding: 5px;
+}
+ ul li:hover {
+    color: black;
+    background-color: white;
+    cursor: pointer;
+ }
+ a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: "Segoe UI", Verdana, sans-serif;
+ }
+ a:hover {
+    color:red;
+    text-decoration: underline;
+ }
